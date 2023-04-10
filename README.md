@@ -14,15 +14,15 @@ Objective:
 As a data scientist, you see that there is an array of questions that are being asked at the leadership level that needs to be answered using data. Import the dump file that contains various tables that are present in the database. Use the data to answer the questions posed and create a quarterly business report for the CEO.
 
 <h2>Skills and Tools Covered</h2>
-- <b>Fetching and Filtering Techniques to Query the Data</b> 
-- <b>Aggregating the Data using Aggregate and Window Functions</b>
-- <b>Getting Quicker Insigts using Sub-queries and Case When Functions</b>
-- <b>Joining Multiple Tables using Inner Join</b> 
-- <b>Left Join</b>
-- <b>Right Join</b>
-- <b>Creating Mathematical Calculations using Formulas in SQL Queries</b> 
-- <b>Create Visualization using Microsoft Excel</b>
-- <b>Creating Business Presentation to Present Insights from Data</b>
+- <>Fetching and Filtering Techniques to Query the Data</> 
+- <>Aggregating the Data using Aggregate and Window Functions</>
+- <>Getting Quicker Insigts using Sub-queries and Case When Functions</>
+- <>Joining Multiple Tables using Inner Join</> 
+- <>Left Join</>
+- <>Right Join</>
+- <>Creating Mathematical Calculations using Formulas in SQL Queries</> 
+- <>Create Visualization using Microsoft Excel</>
+- <>Creating Business Presentation to Present Insights from Data</>
 
 <h2>Languages and Utilities Used</h2>
 
